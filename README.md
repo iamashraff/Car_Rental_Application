@@ -47,13 +47,13 @@ List of car that been displayed in this project can be referenced the use of cla
 
 > Car(this.brand, this.model, this.rateHr, this.imgurl, this.passengerCapacity,
 this.fuelConsumption, this.fuelType);<br>
->static  List<Car> carList = [
-Car('Honda', 'City', 13, 'images/city.png', 4, 18.5, 'RON95'),
-Car('Perodua', 'Myvi', 12, 'images/myvi.png', 4, 18.5, 'RON95'),
-Car('Toyota', 'Vios', 13, 'images/vios.png', 4, 18.5, 'RON95'),
-Car('Honda', 'Jazz', 13, 'images/jazz.png', 4, 18.5, 'RON95'),
-Car('Toyota', 'Altis', 16, 'images/altis.png', 4, 18.5, 'RON95'),
-Car('Volkswagen', 'Polo', 13, 'images/polo.png', 4, 18.5, 'RON95'),
+>static  List<Car> carList = [<br>
+Car('Honda', 'City', 13, 'images/city.png', 4, 18.5, 'RON95'),<br>
+Car('Perodua', 'Myvi', 12, 'images/myvi.png', 4, 18.5, 'RON95'),<br>
+Car('Toyota', 'Vios', 13, 'images/vios.png', 4, 18.5, 'RON95'),<br>
+Car('Honda', 'Jazz', 13, 'images/jazz.png', 4, 18.5, 'RON95'),<br>
+Car('Toyota', 'Altis', 16, 'images/altis.png', 4, 18.5, 'RON95'),<br>
+Car('Volkswagen', 'Polo', 13, 'images/polo.png', 4, 18.5, 'RON95'),<br>
 ];
 
 ### Discount Code
@@ -61,10 +61,10 @@ Car('Volkswagen', 'Polo', 13, 'images/polo.png', 4, 18.5, 'RON95'),
 Applying discount code will deduct the grand total price of the rental rate. Discount code properties can be found in class `discount.dart`.
 
 > Discount(this.discountCode, this.discountPercent, this.discounteligibility);<br>
-> static  List<Discount> discountList = [
-Discount('HALFDAY', 30, 12),
-Discount('FULLDAY', 50, 24),
-Discount('NEWUSER', 25, 8),
+> static  List<Discount> discountList = [<br>
+Discount('HALFDAY', 30, 12),<br>
+Discount('FULLDAY', 50, 24),<br>
+Discount('NEWUSER', 25, 8),<br>
 ];
 
 Below is the discount code, discount rate and eligibility:
@@ -77,10 +77,7 @@ Below is the discount code, discount rate and eligibility:
 
 Handling discount code that does not meet it's requirement:
 
-<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC1.png" width=170> 
-<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC2.png" width=170> 
-<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC3.png" width=170>
-<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC4.png" width=170>
+<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC1.png" width=170> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC2.png" width=170> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC3.png" width=170><img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC4.png" width=170>
 
 ## Credit
 
