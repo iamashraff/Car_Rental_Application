@@ -4,6 +4,26 @@
 
 This is a simple Car Rental Application project that have been developed using **Flutter**. The project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
 
+## License
+
+The source code has been published on GitHub Repository under  _MIT License_.  
+Please visit  `LICENSE`  file to read the details about the license.
+
+## Dependencies
+
+Please refer `pubspec.yaml` for additional details of information regarding of depencies for this project.
+
+## How to use
+
+1. Fork and clone this repository.
+2. Ensure to install [Flutter](https://docs.flutter.dev/get-started/install), [Android Studio](https://developer.android.com/studio) & [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+3. Open Android Studio, create and run virtual device of `Android 10` or latest.
+4. In VS Code, open terminal and run `flutter upgrade` command to upgrade the latest SDK.
+5. Build and run the project using `flutter run` command to run the project in the virtual device.
+6. Voilà ! Now it works !
+
+## Project Requirements
+
 Below is the requirement given for this project:
 1. Users can input and validate their details.
 2. Users can choose car.
@@ -24,12 +44,6 @@ Page 3 :<br>
 - Input for discound code.
 - Rate calculation based on hours and discount.
 - Total rental rate.
-
-## License
-
-The source code has been published on GitHub Repository under  _MIT License_.  
-Please visit  `LICENSE`  file to read the details about the license.
-
 
 ## Demonstration Video
 
