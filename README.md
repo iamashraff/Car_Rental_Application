@@ -2,7 +2,7 @@
 
 # Car Rental Application
 
-This is a simple Car Rental Application project that have been developed using **Flutter**. The project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
+This is a simple **Car Rental Application** project that have been developed using **Flutter**. The project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
 
 ## License
 
