@@ -1,7 +1,7 @@
 
 # Car Rental Application
 
-This is a simple Car Rental Application developed using Flutter. The project was developed for the course Mobile and Ubiquitous Computing - ISB 26603 at the Universiti Kuala Lumpur.
+This is a simple Car Rental Application developed using **Flutter**. The project was developed for the course Mobile and Ubiquitous Computing - ISB 26603 at the Universiti Kuala Lumpur.
 
 Below is the requirement given for this project:
 1. Users can input and validate their details.
@@ -36,4 +36,15 @@ https://user-images.githubusercontent.com/65198559/218001987-c71a328c-3078-4b44-
 
 
 <img src="https://user-images.githubusercontent.com/65198559/218007626-44af06c2-1025-4a31-afac-003a42e82caf.gif" width=250>  <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/Page 2.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/Page%203.gif" width=250>
+
+### Discount Code
+
+Applying discount code will deduct the grand total price of the rental rate. Discount code properties can be found in class `discount.dart`.
+
+Below is the discount code, discount rate and eligibility:
+
+| Discount Code  | Rate | Eligibility |
+| :-------------: | :-------------: | :-------------: |
+| Content Cell  | Content Cell  |  |
+
 
