@@ -1,4 +1,4 @@
-## Car Rental Application
+# Car Rental Application
 
 This is a simple Car Rental Application developed using Flutter. The project was developed for the course Mobile and Ubiquitous Computing - ISB 26603 at the Universiti Kuala Lumpur.
 
