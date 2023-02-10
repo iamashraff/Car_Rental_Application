@@ -77,7 +77,7 @@ Below is the discount code, discount rate and eligibility:
 
 Handling discount code that does not meet it's requirement:
 
-<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC1.png" width=170> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC2.png" width=170> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC3.png" width=170><img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC4.png" width=170>
+<img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC1.png" width=190> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC2.png" width=190> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC3.png" width=190> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/DC4.png" width=190>
 
 ## Credit
 
