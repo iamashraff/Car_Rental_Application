@@ -1,3 +1,4 @@
+
 # Car Rental Application
 
 This is a simple Car Rental Application developed using Flutter. The project was developed for the course Mobile and Ubiquitous Computing - ISB 26603 at the Universiti Kuala Lumpur.
@@ -34,7 +35,5 @@ https://user-images.githubusercontent.com/65198559/218001987-c71a328c-3078-4b44-
 ## User Interface
 
 
-<img src="https://user-images.githubusercontent.com/65198559/218007626-44af06c2-1025-4a31-afac-003a42e82caf.gif" width=250>
-
-
+<img src="https://user-images.githubusercontent.com/65198559/218007626-44af06c2-1025-4a31-afac-003a42e82caf.gif" width=250>  <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/Page 2.gif?token=GHSAT0AAAAAAB5ZMXGIQCRL2BJIOG4RP6EGY7F42EQ" width=250> <img src="https://raw.githubusercontent.com/iamashraff/Car_Rental_Application/main/img/Page%203.gif?token=GHSAT0AAAAAAB5ZMXGIHO6T6HVFXE5FAZTYY7F5CLQ" width=250>
 
