@@ -1,5 +1,6 @@
 
 
+
 # Car Rental Application
 
 This is a simple **Car Rental Application** project that have been developed using **Flutter**. The project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
@@ -7,11 +8,11 @@ This is a simple **Car Rental Application** project that have been developed usi
 ## License
 
 The source code has been published on GitHub Repository under  _MIT License_.  
-Please visit  `LICENSE`  file to read the details about the license.
+Please visit  [`LICENSE`](https://github.com/iamashraff/Car_Rental_Application/blob/main/LICENSE)  file to read the details about the license.
 
 ## Dependencies
 
-Please refer `pubspec.yaml` for additional details of information regarding of depencies for this project.
+Please refer [`pubspec.yaml`](https://github.com/iamashraff/Car_Rental_Application/blob/main/pubspec.yaml) for additional details of information regarding of depencies for this project.
 
 ## How to use
 
@@ -57,7 +58,7 @@ https://user-images.githubusercontent.com/65198559/218001987-c71a328c-3078-4b44-
 
 ### Car List
 
-List of car that been displayed in this project can be referenced the use of class `car.dart`. The class containing attributes of the rental car such as their brand, model, rate per hour, seat capacity, fuel consumption and fuel type.
+List of car that been displayed in this project can be referenced the use of class [`car.dart`](https://github.com/iamashraff/Car_Rental_Application/blob/main/lib/car.dart). The class containing attributes of the rental car such as their brand, model, rate per hour, seat capacity, fuel consumption and fuel type.
 
 > Car(this.brand, this.model, this.rateHr, this.imgurl, this.passengerCapacity,
 this.fuelConsumption, this.fuelType);<br>
@@ -72,7 +73,7 @@ Car('Volkswagen', 'Polo', 13, 'images/polo.png', 4, 18.5, 'RON95'),<br>
 
 ### Discount Code
 
-Applying discount code will deduct the grand total price of the rental rate. Discount code properties can be found in class `discount.dart`.
+Applying discount code will deduct the grand total price of the rental rate. Discount code properties can be found in class [`discount.dart`](https://github.com/iamashraff/Car_Rental_Application/blob/main/lib/discount.dart).
 
 > Discount(this.discountCode, this.discountPercent, this.discounteligibility);<br>
 > static  List<Discount> discountList = [<br>
